@@ -11,5 +11,6 @@ public class AB1 {
 	
 	{
 		System.out.println("from static demo() parent");
+		System.out.println("hiiiiiiiiiiiiii");
 	}
 }
