@@ -17,5 +17,6 @@ public class PrepareStatementWithBP {
 		ps.addBatch();
 		ps.executeBatch();
 		System.out.println("Values inserted sucess");
+		System.out.println("Added into github Succcesfully");
 	}
 }
